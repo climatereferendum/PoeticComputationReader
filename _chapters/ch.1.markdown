@@ -1,5 +1,5 @@
 ---
-title:  "What is poetic about computation?"
+title:  "Preface"
 summary: "Chapter One introduces the poetic aspects of computation and considers how engaging technology with this lens can lead to new political possibilities. In connecting modern computation to its historical antecedents, it problematizes the fetishistic embrace of technology and presents a case for radical intervention."
 pdf: "/pdfs/chapterOne.pdf"
 chapter: 1
